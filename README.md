@@ -1,0 +1,2 @@
+# Rugsupdater
+Rugs vpn updater
